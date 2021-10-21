@@ -1,0 +1,9 @@
+*.class
+*.cache
+
+*.log
+
+!target/.gitkeep
+target
+
+.bsp/sbt.json
